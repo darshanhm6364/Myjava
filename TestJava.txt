@@ -1,0 +1,69 @@
+1.    high level object oriented programing language
+       javac=javac is compilar which convert sourse code to byte code
+ 
+ 2     JDK=java devolpment kit=The JDK is an abbreviation for Java Development Kit
+        JVM=java vartial machine=The JVM is an abbreviation for Java Virtual Machine
+		JRE=java runtime enivarnment=The JRE is an abbreviation for Java Runtime Environment.
+		
+3    Insertion and deletion operations are costly in arrays as elements are stored in contiguous memory	
+ 
+ 
+ 4   class=a template used to create objects and to define object data types and methods
+      object signature=the signatures of the object's methods that are required to use the object.
+	  
+5	  java file=java file contains your Java source code while a .
+       class file= class file contains the Java bytecode produced by the Java compiler. 
+	   
+6	   method signature = the structure of a method that is designed by the programmer. 
+	   
+	   
+7	 high level object oriented programing language  
+
+
+8   eclipseor
+      Netbeans
+
+
+
+9. it is a cantainer which is used store the data/hold data is called variable
+        1.local variable
+		2.static variable
+		3.instance variable
+		
+		
+10  keywords of java==abstarct.assert.byte.booleon .break.case char.class.catch.const.defoult.do.else.enum.extends.float.final.finally.goto.it		
+		
+		
+		
+11 class variable=Fields that have the static modifier in their declaration are called static fields or class variables		
+		
+12    type of data to be stored in variable
+		primative date types;- 
+		
+      boolean data type.
+       byte data type.
+       char data type.
+       short data type.
+       int data type.
+       long data type.
+       float data type.
+       double data type
+	   
+	   nonprimative datetypes;-
+	    
+		String
+		arrays etc
+		
+	   
+13     data operater= used to access class, structure, or union members
+
+
+14 	   Simple.
+          Object-Oriented.
+          Platform Independent.
+           Portable.
+         Robust.
+         Secure.
+         Interpreted.
+         Multi-Threaded.
+	   
