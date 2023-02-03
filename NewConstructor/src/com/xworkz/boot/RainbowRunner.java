@@ -9,6 +9,6 @@ public class RainbowRunner {
 		Rainbow rainbow = new Rainbow("Red", true, "Yellow", 4, "Blue", "Indigo", "Violet");
 		rainbow.DisplayRainbow();
 	}
-
-
+ 
+	
 }
